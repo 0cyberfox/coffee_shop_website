@@ -291,7 +291,7 @@ body {
 }
 
 #avatar-fb {
-    background-image: url('../images/fb_logo.png');
+    background-image: url('../images/fb_logo.PNG');
     background-size: cover;
     height: 4rem;
     width: 4rem;
@@ -301,7 +301,7 @@ body {
 }
 
 #avatar-instagram {
-    background-image: url('../images/instagram_logo.png');
+    background-image: url('../images/instagram_logo.PNG');
     background-size: cover;
     height: 4rem;
     width: 4rem;
@@ -311,7 +311,7 @@ body {
 }
 
 #avatar-x {
-    background-image: url('../images/x_logo.png');
+    background-image: url('../images/x_logo.PNG');
     background-size: cover;
     height: 4rem;
     width: 4rem;
@@ -321,7 +321,7 @@ body {
 }
 
 #avatar-youtube {
-    background-image: url('../images/youtube_logo.png');
+    background-image: url('../images/youtube_logo.PNG');
     background-size: cover;
     height: 4rem;
     width: 4rem;
